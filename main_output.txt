@@ -1,0 +1,7 @@
+[2, 4, 6]
+[]
+[10, 20, 30]
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
